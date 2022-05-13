@@ -26,6 +26,8 @@
  <div>
    <a href="https://www.linkedin.com/in/priscilla-celes-lima-977a10235/" target="_blank"><img height="40" width="auto" src="https://img.icons8.com/office/344/linkedin.png" target="_blank"></a>
    <a href = "mailto:pri.c.maciel@hotmail.com"><img height="40" width="auto" src="https://img.icons8.com/dusk/344/ms-outlook.png" target="_blank"></a>
-</div>
+
+   ![Snake animation](https://github.com/PriscillaCeles/PriscillaCeles/blob/output/github-contribution-grid-snake.svg)
+ </div>
   
-  ![Snake animation](https://github.com/PriscillaCeles/PriscillaCeles/blob/output/github-contribution-grid-snake.svg)
+
