@@ -1,4 +1,4 @@
-### Olá! Eu sou a Priscilla Celes Lima 👋
+### Olá! Eu sou a Priscilla Celes 👋
 
 
 - 🌱 I’m currently learning JavaScript
