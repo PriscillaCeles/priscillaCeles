@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/PriscillaCeles">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PriscillaCeles&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscillaCeles&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PriscillaCeles&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats"/>
+    <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscillaCeles&layout=compact&theme=radical&hide_border=true" />
 </div>
   
   <div style="display: inline_block"><br>
@@ -27,5 +27,6 @@
    <a href="https://www.linkedin.com/in/priscilla-celes-lima-977a10235/" target="_blank"><img height="40" width="auto" src="https://img.icons8.com/office/344/linkedin.png" target="_blank"></a>
    <a href = "mailto:pri.c.maciel@hotmail.com"><img height="40" width="auto" src="https://img.icons8.com/dusk/344/ms-outlook.png" target="_blank"></a>
  </div>
+  
   
 
