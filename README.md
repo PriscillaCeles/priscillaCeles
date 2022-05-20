@@ -1,6 +1,6 @@
 ## Hii! I'm Priscilla Celes 👋
 
-About me:
+<h3> About me: </h3>
 - 😍 I love coding
  
 - 📑 I'm studying to change my profession and work with  Front-end 
