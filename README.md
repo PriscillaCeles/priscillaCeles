@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Front-end
 - 😄 Pronouns: ela/dela
-- ⚡ Fun fact: I'm a Fishing Engineer, a Job Security Engineer, a PhD in Fisheries Resources and Aquaculture, and now I'm studying web development.
+- ⚡ Fun fact: I'm a Fishing Engineer, a  occupational Safety Engineer, a PhD in Fisheries Resources and Aquaculture, and now I'm studying web development.
 
 ##
 
