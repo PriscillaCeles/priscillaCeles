@@ -11,8 +11,8 @@ About me:
 
 <div align="center">
   <a href="https://github.com/PriscillaCeles">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=PriscillaCeles&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats"/>
-    <img height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscillaCeles&layout=compact&theme=radical&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PriscillaCeles&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats"/>
+    <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscillaCeles&layout=compact&theme=radical&hide_border=true" />
  </div>
   
 <h3> Most used technologies </h3>
@@ -30,7 +30,7 @@ About me:
   <img align="bottom" alt="Priscilla-React" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   
     
-  <img align="right" alt="Priscilla-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/950529188283183114/974701368621281331/download20220505125246.png">
+  <img align="right" alt="Priscilla-figure" height="150" src="https://media.discordapp.net/attachments/950529188283183114/974701368621281331/download20220505125246.png">
 </div>
   
   ##
