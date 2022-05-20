@@ -11,8 +11,8 @@ About me:
 
 <div align="center">
   <a href="https://github.com/PriscillaCeles">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=PriscillaCeles&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats"/>
-    <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscillaCeles&layout=compact&theme=radical&hide_border=true" />
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=PriscillaCeles&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats"/>
+    <img height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscillaCeles&layout=compact&theme=radical&hide_border=true" />
  </div>
   
 <h3> Most used technologies </h3>
